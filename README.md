@@ -1,5 +1,4 @@
 # job-scheduling
 Tests 3 different scheduling modes
 
-FIFO, Round Robin, and Shortest Job First
-SJF uses a minimum priority queue based on a binary heap.
+They are: FIFO, Round Robin, and Shortest Job First. SJF uses a binary heap to maintain a minimum priority queue.
